@@ -79,7 +79,7 @@ const ImpactSection = () => {
             Tabiatga <span className="text-eco-gold">Haqiqiy Foyda</span>
           </h2>
           <p className="text-xl text-primary-foreground/80 max-w-3xl mx-auto">
-            Har bir to'plangan ahlat - bu sayyoramiz uchun qilingan yaxshilik. 
+            Har bir to'plangan ahlat - bu sayyoramiz uchun qilingan yaxshilik.
             Bir yilda biz qanday natijalarga erishdik:
           </p>
         </motion.div>
@@ -124,7 +124,7 @@ const ImpactSection = () => {
           className="mt-16 p-8 rounded-3xl bg-primary-foreground/10 border border-primary-foreground/20 max-w-4xl mx-auto"
         >
           <h3 className="text-2xl font-bold text-center mb-6">
-            🎯 2024 yil maqsadlarimiz
+            🎯 2026 yil maqsadlarimiz
           </h3>
           <div className="grid md:grid-cols-3 gap-6 text-center">
             <div>

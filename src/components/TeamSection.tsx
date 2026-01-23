@@ -3,27 +3,33 @@ import { Linkedin, Mail, Github } from "lucide-react";
 
 const teamMembers = [
   {
-    name: "Abdulloh Karimov",
-    role: "Asoschisi va CEO",
-    bio: "10 yillik IT tajribasi, avval Yandex va Epam'da ishlagan",
-    avatar: "👨‍💼",
+    name: "Yarasheva Mashxura",
+    role: "1-IDUM",
+    avatar: "👩‍💼",
   },
   {
-    name: "Malika Rahimova",
-    role: "CTO",
-    bio: "AI va Machine Learning mutaxassisi, PhD",
+    name: "Ro'zibayeva Nigina",
+    role: "1-IDUM",
     avatar: "👩‍💻",
   },
   {
-    name: "Jasur Toshmatov",
-    role: "COO",
-    bio: "Logistika va operatsion boshqaruv bo'yicha 8 yillik tajriba",
+    name: "Sultonova Vasila",
+    role: "1-IDUM",
+    avatar: "👩‍💼",
+  },
+  {
+    name: "Olimov Umrbek",
+    role: "1-IDUM",
     avatar: "👨‍💼",
   },
   {
-    name: "Nilufar Saidova",
-    role: "CMO",
-    bio: "Marketing strategiyasi bo'yicha mutaxassis",
+    name: "Matchonov Kamron",
+    role: "1-IDUM",
+    avatar: "👨‍💼",
+  },
+  {
+    name: "To'xtaboyeva Zuxra",
+    role: "1-IDUM",
     avatar: "👩‍💼",
   },
 ];
@@ -74,7 +80,7 @@ const TeamSection = () => {
               </div>
               <h3 className="text-xl font-bold text-card-foreground">{member.name}</h3>
               <p className="text-primary font-medium text-sm mb-3">{member.role}</p>
-              <p className="text-muted-foreground text-sm mb-4">{member.bio}</p>
+
               <div className="flex justify-center gap-3">
                 <a href="#" className="w-8 h-8 rounded-full bg-secondary flex items-center justify-center hover:bg-primary hover:text-primary-foreground transition-colors">
                   <Linkedin className="w-4 h-4" />
@@ -124,7 +130,7 @@ const TeamSection = () => {
         >
           <div className="grid md:grid-cols-3 gap-8 text-center">
             <div>
-              <div className="text-4xl font-bold text-gradient-hero mb-2">2023</div>
+              <div className="text-4xl font-bold text-gradient-hero mb-2">2026</div>
               <p className="text-muted-foreground">Tashkil etilgan</p>
             </div>
             <div>
